@@ -83,6 +83,7 @@ body {
     list-style-type: none;
     justify-content: space-between;
     margin-left:-36px;
+
   }
 
   .MainSection {
@@ -208,6 +209,7 @@ body {
       text-align: center;
       color: #6070FF;
     }
+
     .aboutUS {   
         width: 375px;
         height: 1050px;
@@ -304,3 +306,4 @@ body {
         padding-top: 11px;
         padding-left: 25px;
       }
+
